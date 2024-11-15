@@ -9,3 +9,5 @@ Challenge Assignment 1, an exercise in writing out semantic HTML and reformattin
 https://www.w3schools.com
 
 ## Deployed Site Links
+https://github.com/gracefern00/grace-challenge-1
+https://gracefern00.github.io/grace-challenge-1/
