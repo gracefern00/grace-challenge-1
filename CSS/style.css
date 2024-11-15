@@ -102,6 +102,7 @@ p {
   display: block;
   margin: 10px auto;
   max-height: 150px;
+  max-width: 150px;
 }
 /* End of changes to benefits class */
 
