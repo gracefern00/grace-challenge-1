@@ -102,7 +102,7 @@ p {
 .benefit-format img {
   display: block;
   margin: 10px auto;
-  max-width: 150px;
+  max-height: 150px;
 }
 /* End of changes to benefits class */
 
