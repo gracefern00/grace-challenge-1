@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -55,7 +56,7 @@ p {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-image: url("/CSS/Images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -101,7 +102,6 @@ p {
 .benefit-format img {
   display: block;
   margin: 10px auto;
-  max-height: 150px;
   max-width: 150px;
 }
 /* End of changes to benefits class */
